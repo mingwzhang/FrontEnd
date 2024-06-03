@@ -11,3 +11,4 @@ while(guess != luckyNumber)
 }
 
 console.log("My luck number is " + luckyNumber);
+    
