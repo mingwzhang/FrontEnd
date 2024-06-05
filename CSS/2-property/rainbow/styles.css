@@ -1,0 +1,11 @@
+#first-color {
+  color: rgb(255, 0, 0); /* Red */
+}
+
+#second-color {
+  color: blue; /* Blue */
+}
+
+#third-color {
+    color: #008000; /* Green */
+}
